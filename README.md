@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm Samuel, a Georgia Tech student majoring in CS.</h2>
 
-- 🌱 I’m currently interested **Python, Java, Data Science, and anything Machine Learning related!**
+- 🌱 I’m currently interested in **Python, Java, Data Science, and anything Machine Learning related!**
 
 - 🧐 I love **learning new things and collaborating with others on projects!**
 
