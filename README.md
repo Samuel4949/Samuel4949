@@ -28,7 +28,8 @@ Passionate about <b>Machine Learning, Data Science, and Scalable AI Systems</b>
 I'm currently contributing to a **RAG pipeline for LLM inference** designed to improve how large language models retrieve and utilize external knowledge sources.
 
 🔗 Repository
-https://github.com/llm-inference-aad/llm-inference/tree/feature/rag-pipeline
+https://github.com/llm-inference-aad/llm-inference/tree/feature/knowledgeGraph
+
 
 **Focus Areas**
 
@@ -45,7 +46,8 @@ https://github.com/llm-inference-aad/llm-inference/tree/feature/rag-pipeline
 Contributing to a **Retrieval-Augmented Generation (RAG) pipeline** for scalable large language model inference.
 
 🔗 Repository
-https://github.com/llm-inference-aad/llm-inference/tree/feature/rag-pipeline
+https://github.com/llm-inference-aad/llm-inference/tree/feature/knowledgeGraph
+
 
 ---
 
