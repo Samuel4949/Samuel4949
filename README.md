@@ -21,7 +21,7 @@ Passionate about <b>Machine Learning, Data Science, and Scalable AI Systems</b>
 
 ---
 
-# 🧠 What I'm Currently Building
+# What I'm Currently Building
 
 ### Retrieval-Augmented Generation (RAG) Pipeline
 
@@ -39,7 +39,7 @@ https://github.com/llm-inference-aad/llm-inference/tree/feature/knowledgeGraph
 
 ---
 
-# 🚀 Featured Project
+# Featured Project
 
 ### LLM Inference + RAG Pipeline
 
@@ -51,7 +51,7 @@ https://github.com/llm-inference-aad/llm-inference/tree/feature/knowledgeGraph
 
 ---
 
-# 💻 Languages
+# Languages
 
 <p align="left">
 
@@ -77,14 +77,14 @@ https://github.com/llm-inference-aad/llm-inference/tree/feature/knowledgeGraph
 
 # 📚 Current Interests
 
-* 🤖 Machine Learning
-* 🧠 Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 📊 Data Science
-* ⚙️ AI Infrastructure
+* Machine Learning
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Data Science
+* AI Infrastructure
 
 ---
 
 <p align="center">
-⭐ Always excited to learn new technologies and collaborate on interesting projects.
+Always excited to learn new technologies and collaborate on interesting projects.
 </p>
